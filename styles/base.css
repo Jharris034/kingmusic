@@ -11,6 +11,41 @@ body {
   margin: 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+hr {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  opacity: .5;
+  border: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  max-width: 100%;
+}
+
 .banner {
   background: #0b3db8;
   color: #0b3db8;
