@@ -141,3 +141,7 @@ hr {
   padding: 2rem;
   margin-top: 5rem;
 }
+
+iframe {
+  max-width: 100%;
+}
