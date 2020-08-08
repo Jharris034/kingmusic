@@ -4,10 +4,10 @@ body {
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
-  background: #7df9ff;
-  color: #3b31ff;
+  background: #b8860b;
+  color: #0b3db8;
   font-family: 'Staatliches', cursive;
-  border: 1rem solid #3b31ff;
+  border: 1rem double #3b31ff;
   margin: 0;
 }
 
@@ -64,8 +64,6 @@ hr {
 }
 
 .banner {
-  background: url('../images/background.jpg');
-  background-size: cover;
   min-height: 40vh;
   padding: 3rem;
   text-align: right;
