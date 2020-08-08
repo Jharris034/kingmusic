@@ -1,1 +1,23 @@
+/* Base styles */
 
+body {
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0.025rem;
+  background: #b8860b;
+  color: #0b3db8;
+  font-family: 'Red Rose', cursive;
+  border: 1rem double #3b31ff;
+  margin: 0;
+}
+
+.banner {
+  background: #0b3db8;
+  color: #0b3db8;
+}
+
+.banner-text {
+  color: #b8860b;
+  font-family: 'Red Rose', cursive;
+  text-align: center;
+}
