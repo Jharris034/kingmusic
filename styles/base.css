@@ -5,9 +5,9 @@ body {
   font-size: 16px;
   letter-spacing: .025rem;
   background: #add8e6;
-  color: #adbce6;
+  color: #ffffff;
   font-family: 'Staatliches', cursive;
-  border: 1rem double #ffffff;
+  border: 1rem double #adbce6;
   margin: 0;
 }
 
@@ -76,30 +76,30 @@ hr {
   font-size: 3.5rem;
   width: auto;
   background: #ade6d8;
-  color: #adbce6;
-  border: 15px double #ffffff;
+  color: #ffffff;
+  border: 15px double #adbce6;
 }
 
 .mentally {
-  background: #0b3db8;
-  color: #b8860b;
+  background: #ade6d8;
+  color: #ffffff;
 }
 
 .socially {
-  background: #0b3db8;
-  color: #b8860b;
+  background: #ade6d8;
+  color: #ffffff;
 }
 
 .academically {
-  background: #0b3db8;
-  color: #b8860b;
+  background: #ade6d8;
+  color: #ffffff;
 }
 
 .mentally,
 .socailly,
 .academically {
   padding: 3rem;
-  border: 2px solid #ffffff;
+  border: 2px solid #adbce6;
 }
 
 .mentally p,
@@ -115,8 +115,8 @@ hr {
 
 .btn {
   padding: 2rem 5rem;
-  background: #3b31ff;
-  color: #f9ff7d;
+  background: #ade6d8;
+  color: #ffffff;
   font-size: 2rem;
   border-radius: .25rem;
   letter-spacing: 2px;
